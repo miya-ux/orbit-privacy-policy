@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>プライバシーポリシー | Orbit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      line-height: 1.7;
+      padding: 24px;
+      max-width: 800px;
+      margin: auto;
+      background-color: #ffffff;
+      color: #000000;
+    }
+    h1, h2 {
+      margin-top: 1.5em;
+    }
+  </style>
+</head>
+<body>
+
+<h1>プライバシーポリシー</h1>
+
+<p>
+本アプリ「Orbit」（以下「本アプリ」）は、ユーザーのプライバシーを尊重し、
+以下の方針に基づいて情報を取り扱います。
+</p>
+
+<h2>収集する情報</h2>
+<p>
+本アプリでは、以下の情報を収集する場合があります。
+</p>
+<ul>
+  <li>デバイス識別子（広告配信および効果測定のため）</li>
+  <li>アプリの利用状況（利用時間、クラッシュ情報等）</li>
+</ul>
+
+<h2>情報の利用目的</h2>
+<p>
+収集した情報は、以下の目的で利用されます。
+</p>
+<ul>
+  <li>アプリの品質向上</li>
+  <li>利用状況の分析</li>
+  <li>広告の配信および効果測定</li>
+</ul>
+
+<h2>第三者サービスの利用</h2>
+<p>
+本アプリでは、以下の第三者サービスを利用しています。
+</p>
+<ul>
+  <li>Firebase（Google LLC）</li>
+  <li>Google AdMob（Google LLC）</li>
+</ul>
+<p>
+これらのサービスは、各社のプライバシーポリシーに基づいて情報を取り扱います。
+</p>
+
+<h2>トラッキングについて</h2>
+<p>
+本アプリでは、広告配信のためにトラッキングを行う場合があります。
+トラッキングの許可・拒否は、端末の設定から変更することができます。
+</p>
+
+<h2>お問い合わせ</h2>
+<p>
+本ポリシーに関するお問い合わせは、以下までご連絡ください。
+</p>
+<p>
+メールアドレス：<strong>あなたのメールアドレス</strong>
+</p>
+
+<h2>改定</h2>
+<p>
+本ポリシーは、必要に応じて改定されることがあります。
+</p>
+
+<p>
+制定日：2026年1月
+</p>
+
+</body>
+</html>
